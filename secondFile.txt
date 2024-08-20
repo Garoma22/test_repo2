@@ -5,6 +5,10 @@ Line 4 Different info
 Line 5
 Line 6
 Line 7 Different info
+Line 4 changed line
+Line 5
+Line 6
+Line 7 changed line
 Line 8
 Line 9
 Line 10
